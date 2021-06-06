@@ -7,4 +7,5 @@
 
 ` Jurusan : Informatics
 
-# Minion
+# Latihan Github
+
